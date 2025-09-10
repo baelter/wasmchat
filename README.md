@@ -2,6 +2,8 @@
 
 A client-side chat application using AMQP streams over WebSockets.
 
+![WamsChat Screenshot](resources/screenshot.png)
+
 ## Features
 
 - 🚀 **Zero Backend**: Pure client-side application using AMQP streams
