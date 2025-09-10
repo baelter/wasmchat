@@ -6,9 +6,6 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "dev:with-mock": "concurrently \"node mock-amqp-server.js\" \"vite\"",
-    "mock-server": "node mock-amqp-server.js",
-    "test-consumer": "node test-consumer.js",
     "build": "vite build",
     "preview": "vite preview",
     "test": "vitest",
